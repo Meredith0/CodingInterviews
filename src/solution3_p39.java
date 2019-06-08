@@ -1,10 +1,9 @@
-package solution3_p39;
 /**
  * @author : Meredith
  * @date : 2019-06-05 23:55
  * @description : P39 找出数组中重复的数字 位图法
  */
-public class MySolution {
+public class solution3_p39 {
 
     public static void main(String[] args) {
         int[] input = new int[]{2, 2, 4, 4, 3, 6, 4, 6};
