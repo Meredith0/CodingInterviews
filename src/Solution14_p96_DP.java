@@ -12,7 +12,7 @@ public class Solution14_p96_DP {
     //找n的最优解
     static int optimize (int n) {
         if (n < 0) {
-            throw new IllegalArgumentException("Illegal param");
+            throw new IllegalArgumentException("Illegal parameter");
         }
 
         int[] opt = new int[n + 4];
